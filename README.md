@@ -1,18 +1,94 @@
-## PHP学习路线图
+# PHP学习路线图
 
 PHP学习的关键是：多看代码，多写代码，多总结。
 
-1. **PHP基础知识** - 基本语法、变量及类型、数组、循环控制、函数
-2. **HTML知识** - HTML标签、CSS样式、Javascript脚本
-3. **WEB服务器搭建** - Linux基础、LNMP安装、PHP-FPM配置
-4. **PHP MySQL操作** - CRUD操作、表单处理、PDO
-5. **PHP面向对象** - 类、对象、继承、封装、多态、性状，以及面向对象设计原则
-6. **设计模式** - 类之间的关系和UML类图、主要的设计模式
-7. **代码标准** - PHP-FIG PSR1~PSR4代码规范
-8. **版本控制** - git版本控制和github代码仓库
-9. **PHP高级功能** - Cookie、Session、JSON、XML、AJAX、文件读写、上传、图片处理、RESTful
-10. **MVC框架** - 单一入口、MVC三部分的职责划分、PHP框架
-11. **组件** - composer、组件使用
-12. **Nginx** - Nginx配置优化、负载均衡、集群、CDN分布
-13. **数据库** - ORM、索引、全文索引、锁机制、分表、集群、Redis缓存
-14. **PHP优化** - OPcache、XDebug、PHPUnit单元测试
+## HTML5和CSS
+> 推荐书籍《HTML5+CSS3从入门到精通》·李东博
+
+- HTML标签
+- CSS样式
+- Javascript脚本
+
+## PHP基础
+> 推荐书籍《PHP编程》·Kevin Tatroe，Peter MacIntyre，Rasmus Lerdorf
+
+- 变量
+- 数组
+- 循环控制
+- 函数
+- Cookie和Session
+- JSON和XML
+- AJAX
+- 文件读写
+- 上传和下载
+- 图片处理
+- RESTful
+
+## WEB服务器
+> 推荐书籍《鸟哥的Linux私房菜基础篇》·鸟哥
+
+- Linux基础
+- LNMP安装
+- PHP-FPM配置
+
+## PHP MySQL操作
+> 推荐书籍《PHP和MySQL Web开发》·Luke Welling
+
+- 增查改删操作
+- 表单处理
+- MySQLi和PDO扩展
+
+## PHP面向对象和设计模式
+> 推荐书籍《深入PHP：面向对象、模式与实践》·Matt Zandstra
+
+- 类和对象的关系
+- 继承、封装、多态
+- 性状
+- 面向对象设计原则
+- 类UML关系
+- 设计模式
+
+## 代码编写和规范
+> 推荐书籍《代码整洁之道》·Robert C. Martin
+
+- PHP-FIG PSR1~4规范
+- phpStorm集成开发环境
+- Git版本控制
+- Github代码仓库
+
+## MVC框架
+
+- 单一入口
+- MVC职责划分
+- PHP框架
+
+## 组件
+
+- Composer
+- 组件
+
+## Nginx
+> 推荐书籍《Nginx高性能Web服务器详解》·苗泽，《大型网站技术架构 核心原理与案例分析》·李智慧
+
+- Nginx配置优化
+- 负载均衡
+- 反向代理
+- 集群
+- CDN
+
+## 数据库
+> 推荐书籍《高性能MySQL》·Baron Schwartz，Peter Zaitsev，Vadim Tkachenko
+
+- ORM
+- 索引和全文索引
+- 锁机制
+- 分表
+- 集群
+- Redis缓存
+
+## PHP高级
+> 推荐书籍《Modern PHP》·Josh Lockhart
+
+- Opcache
+- xDebug调试和分析
+- PHPUnit单元测试
