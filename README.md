@@ -13,6 +13,6 @@ PHP学习的关键是：多看代码，多写代码，多总结。
 9. **PHP高级功能** - Cookie、Session、JSON、XML、AJAX、文件读写、上传、图片处理、RESTful
 10. **MVC框架** - 单一入口、MVC三部分的职责划分、PHP框架
 11. **组件** - composer、组件使用
-12. **Nginx** - Nginx配置优化、集群、CDN分布
+12. **Nginx** - Nginx配置优化、负载均衡、集群、CDN分布
 13. **数据库** - ORM、索引、全文索引、锁机制、分表、集群、Redis缓存
 14. **PHP优化** - OPcache、XDebug、PHPUnit单元测试
