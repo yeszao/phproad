@@ -91,5 +91,6 @@ PHP学习的关键是：多看代码，多写代码，多总结。
 
 - Opcache
 - xDebug调试和分析
+- Xhprof + Xhgui性能分析
 - PHPUnit单元测试
 - 持续集成
