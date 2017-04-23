@@ -60,7 +60,7 @@ PHP学习的关键是：多看代码，多写代码，多总结。
 
 - 单一入口
 - MVC职责划分
-- PHP框架
+- PHP框架ThinkPHP5+/Yii2+
 
 ## 组件
 
@@ -93,4 +93,5 @@ PHP学习的关键是：多看代码，多写代码，多总结。
 - xDebug调试和分析
 - Xhprof + Xhgui性能分析
 - PHPUnit单元测试
+- Docker LNMP环境部署
 - 持续集成
